@@ -35,7 +35,7 @@
 <a href="https://github.com/donpeldhose2003"><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=donpeldhose2003&theme=tokyonight&hide_border=true"></a> 
 <br />
 <br />
-<a href="https://github.com/donpeldhose2003"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-jeshwanth&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/donpeldhose2003"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=donpeldhose2003&theme=tokyonight&hide_border=true"></a>
 <br>
 <br>
 <br>
