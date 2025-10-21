@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td><strong>Backend</strong></td>
-    <td>Java, Spring Boot, vert.x, Spring Security</td>
+    <td>Java, Spring Boot, vert.x, Redis</td>
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
