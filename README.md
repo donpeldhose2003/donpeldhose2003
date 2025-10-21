@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>HTML5, CSS3, JavaScript, ReactJS</td>
+    <td>HTML5, CSS3, JavaScript, Angular</td>
   </tr>
   <tr>
     <td><strong>Database</strong></td>
